@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"name": "reporting",
+		"path": "."
+	},
+	{
+		"path": "../Clothing Website final"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "reporting"
+  }
+}
